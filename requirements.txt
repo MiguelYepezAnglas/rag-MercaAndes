@@ -1,0 +1,10 @@
+# PyTorch solo CPU: Streamlit Cloud no tiene GPU y así la instalación pesa mucho menos
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+streamlit
+google-genai
+qdrant-client
+rank-bm25
+sentence-transformers
+pandas
+numpy
